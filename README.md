@@ -13,4 +13,4 @@ chmod +x install.sh
 ./honeyScore ipList.txt > results.txt
 ```
 ## Output
-![a](honeyScore.png)
+![a](honeyScore.PNG)
